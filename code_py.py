@@ -1,7 +1,8 @@
+from noaqi import ALProxy
 import qi
 
 #Connexion à NAO
-ip_robot = ""
+ip_robot = "11.0.0.131"
 port = 9559
 
 
